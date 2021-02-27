@@ -1,6 +1,6 @@
  # Hello my friends！👋
 
- I am a front-end developer in the learning stage. I am currently studying in Shaanxi University of Technology. Here I will record my learning status and some interesting things:sparkles:
+ I am a front-end developer in the learning stage. I am currently studying in Shaanxi University of Technology. Here I will share my learning status and some interesting things:sparkles:
 
 I hope we can make progress together and create a bright future🌱
 
