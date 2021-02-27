@@ -1,16 +1,14 @@
-### Hi there 👋
+ # Hello my friends！👋
 
-<!--
-**LuAoo/LuAoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I am a front-end developer in the learning stage. I am currently studying in Shaanxi University of Technology. Here I will record my learning status and some interesting things:sparkles:
 
-Here are some ideas to get you started:
+I hope we can make progress together and create a bright future🌱
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+# My blog   :speak_no_evil:
+
+掘金:https://juejin.cn/user/2568097069536599
+
+csdn：https://blog.csdn.net/M_Edison
+
